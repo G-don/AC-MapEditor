@@ -10,7 +10,7 @@ We can select the number of columns and rows once we instantiate the grid, and t
 
 ##Instructions
 
-You can move the brush that is a green circle within the cells of the grid using the ARROW KEYS.
+You can move the brush with the ARROW KEYS, that is a green circle within the cells of the grid using the ARROW KEYS.
 The brush paint each cell by pressing SPACE and you can clear the color of the cell by pressing SPACE.
 
 ##features
