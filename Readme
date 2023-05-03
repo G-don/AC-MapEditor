@@ -20,8 +20,7 @@ Simple grid painter using just the arrow keys and space. you can color multiple 
 I've included a package with the name of Visuals where you have screenshots on how this app works and the flow.
 
 ##ROADMAP
-new features will be included in future like selecting different colors for your drawing and be able to save the drawing
-and re-open same drawing.
+new features will be included in future like selecting different colors for your drawing and be able to save the drawingand re-open same drawing.
 
 ##Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
